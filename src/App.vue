@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, onMounted  } from 'vue';
+import { ref  } from 'vue';
 import axios from 'axios';
 
 const clientId = 'v9678cdu0s1f86e';
